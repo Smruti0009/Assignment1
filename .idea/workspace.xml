@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="524fa439-4747-46c1-bfc8-0e6db4c9df59" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Test/BinarySearchTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/BSTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/BSTTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTree.java" afterDir="false" />
-    </list>
+    <list default="true" id="524fa439-4747-46c1-bfc8-0e6db4c9df59" name="Changes" comment=" first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721663365498</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" first commit">
+      <option name="closed" value="true" />
+      <created>1721741897219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721741897219</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +195,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="fibonacci" />
+    <MESSAGE value=" first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" first commit" />
   </component>
 </project>
