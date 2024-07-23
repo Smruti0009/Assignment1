@@ -1,8 +1,8 @@
 public class BSTTest {
     public static void main(String[] args) {
-        BST tree = new BST();
+        BinarySearchTree tree = new BinarySearchTree();
 
-        /* Let us create the following BST
+        /* Let us create the following BinarySearchTree
               50
            /     \
           30      70
@@ -15,7 +15,7 @@ public class BSTTest {
             tree.insert(key);
         }
 
-        System.out.println("BST created with elements: 50, 30, 20, 40, 70, 60, 80");
+        System.out.println("BinarySearchTree created with elements: 50, 30, 20, 40, 70, 60, 80");
 
         // Test cases for search
         int[] testCases = {50, 30, 20, 40, 70, 60, 80, 25, 75, 100};
